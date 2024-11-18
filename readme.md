@@ -10,8 +10,8 @@ Unlike the already existing web pages and event calendar scattered across Calvin
 
 ## Team Members
 
-- Alex Ye
 - Ebun Aluko
-- Nana Osei Asiedu Yirenkyi
-- Ray Flanagan
 - Timothy Aluko
+- Ray Flanagan
+- Alex Ye
+- Nana Osei Asiedu Yirenkyi
