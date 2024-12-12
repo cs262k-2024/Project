@@ -6,8 +6,8 @@ Calvin Students are often unaware of the numerous campus wide events and gatheri
 
 Unlike the already existing web pages and event calendar scattered across Calvin's website, KnightConnect users will be able to see and connect with others attending the same events. We believe this social aspect of KnightConnect is what gives it an edge over the competition. In addition KnightConnect will provide students with a convenient and easy to use interface with all the appropriate information in a centralized manner as well as bring awareness to the various clubs, small group meetings and gatherings Calvin has to offer.
 
-- [Design Models](https://github.com/cs262k-2024/knight-connect-project/blob/main/design.md)
-- [Usability Test Script](https://github.com/cs262k-2024/knight-connect-project/blob/main/Test%20Script.docx)
+- [Domain Models](https://github.com/cs262k-2024/knight-connect-project/blob/main/documents/domain_models.md)
+- [Usability Test Script](https://github.com/cs262k-2024/knight-connect-project/blob/main/documents/Usability%20Test%20Script.pdf)
 
 ## Team Members
 
